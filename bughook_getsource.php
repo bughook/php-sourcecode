@@ -1,5 +1,5 @@
 <?php
-BugHook_GetSource::setBaseDirectory('e:\Projekte\bughook\\');
+BugHook_GetSource::setBaseDirectory(YOUR_WORKING_DIRECTORY_HERE);
 
 class BugHook_GetSource {
 
